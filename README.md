@@ -1,0 +1,2 @@
+# ZONE_3_root
+OPTIMUS_zone3_custom_boot
